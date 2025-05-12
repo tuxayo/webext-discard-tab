@@ -8,7 +8,8 @@ I'm unlikely to accept pull requests, unless the extension becomes broken.
 *Examples of acceptable patches:*
 - Firefox Web Extension APIs change. The add-on won't work with a new version of Firefox
 - Adding new localizations (see below)
-Examples of inacceptable pull requests:
+
+*Examples of inacceptable patches:*
 - new features, especially those that require new permissions
 
 
